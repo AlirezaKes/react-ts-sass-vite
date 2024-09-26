@@ -1,9 +1,8 @@
-import stylex from "@stylexjs/stylex";
-import { style } from "../../styles/styles";
+import "../../styles/styles.scss";
 
 function App() {
   return (
-    <div className={stylex(style.app)}>
+    <div className="app">
       <h1>App</h1>
     </div>
   );

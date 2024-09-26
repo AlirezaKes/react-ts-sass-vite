@@ -1,3 +1,4 @@
+// vite.config.ts
 import { defineConfig } from "vitest/config";
 import react from "@vitejs/plugin-react";
 import { fileURLToPath } from "url";

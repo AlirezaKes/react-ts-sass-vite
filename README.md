@@ -1,4 +1,4 @@
-# React + TypeScript + StyleX + Vite
+# React + TypeScript + SASS + Vite
 
 ## This template is Dockerized:
 
